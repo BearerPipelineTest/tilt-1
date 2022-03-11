@@ -609,8 +609,6 @@ github.com/schollz/closestmatch
 ## explicit; go 1.14
 github.com/segmentio/encoding/ascii
 github.com/segmentio/encoding/json
-# github.com/shurcooL/sanitized_anchor_name v1.0.0
-## explicit
 # github.com/sirupsen/logrus v1.8.1
 ## explicit; go 1.13
 github.com/sirupsen/logrus
